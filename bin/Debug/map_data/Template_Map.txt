@@ -1,0 +1,6 @@
+Name  |map path  |flag path   |long data|coin character|name state|populution|capital city|iron mine| food production | state point in map/
+Europe|Europe_map|europe_flags| 1       |   €          | Czech    |  10000000| Prague     |  100    |  1000           |  {X=20,Y=35}/
+
+//long data = number all states
+// "|" end of phase
+// "/" end of database

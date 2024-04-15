@@ -1,0 +1,44 @@
+C:\Users\redca\source\repos\Occupation of states\bin\Debug\Occupation of states.exe.config
+C:\Users\redca\source\repos\Occupation of states\bin\Debug\Occupation of states.exe
+C:\Users\redca\source\repos\Occupation of states\bin\Debug\Occupation of states.pdb
+C:\Users\redca\source\repos\Occupation of states\obj\Debug\Occupation of states.csproj.AssemblyReference.cache
+C:\Users\redca\source\repos\Occupation of states\obj\Debug\Occupation_of_states.MainMenu.resources
+C:\Users\redca\source\repos\Occupation of states\obj\Debug\Occupation_of_states.Properties.Resources.resources
+C:\Users\redca\source\repos\Occupation of states\obj\Debug\Occupation of states.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Occupation of states\obj\Debug\Occupation of states.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Occupation of states\obj\Debug\Occupation of states.exe
+C:\Users\redca\source\repos\Occupation of states\obj\Debug\Occupation of states.pdb
+C:\Users\redca\source\repos\Occupation of states\obj\Debug\Occupation_of_states.CreateMenu.resources
+C:\Users\redca\source\repos\Occupation of states\obj\Debug\Occupation_of_states.FormSettings.resources
+C:\Users\redca\source\repos\Occupation of states\obj\Debug\Occupation_of_states.CommandPrompt.resources
+C:\Users\redca\source\repos\Occupation of states\bin\Debug\Interop.WMPLib.dll
+C:\Users\redca\source\repos\Occupation of states\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\redca\source\repos\Occupation of states\obj\Debug\Interop.WMPLib.dll
+C:\Users\redca\source\repos\Occupation of states\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\redca\source\repos\Occupation of states\obj\Debug\Occupation of states.csproj.ResolveComReference.cache
+C:\Users\redca\source\repos\Occupation of states\obj\Debug\Occupation_of_states.OffMultiplayer.resources
+C:\Users\redca\source\repos\Occupation of states\obj\Debug\Occupation_of_states.CreatorMap.resources
+C:\Users\redca\source\repos\Occupation of states\obj\Debug\Occupation_of_states.OffSingleplayer.resources
+C:\Users\redca\source\repos\Occupation of states\obj\Debug\Occupation_of_states.OnMultiplayer.resources
+C:\Users\redca\source\repos\Occupation_of_states\bin\Debug\Occupation of states.exe.config
+C:\Users\redca\source\repos\Occupation_of_states\bin\Debug\Occupation of states.exe
+C:\Users\redca\source\repos\Occupation_of_states\bin\Debug\Occupation of states.pdb
+C:\Users\redca\source\repos\Occupation_of_states\bin\Debug\Interop.WMPLib.dll
+C:\Users\redca\source\repos\Occupation_of_states\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\redca\source\repos\Occupation_of_states\obj\Debug\Occupation of states.csproj.AssemblyReference.cache
+C:\Users\redca\source\repos\Occupation_of_states\obj\Debug\Interop.WMPLib.dll
+C:\Users\redca\source\repos\Occupation_of_states\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\redca\source\repos\Occupation_of_states\obj\Debug\Occupation of states.csproj.ResolveComReference.cache
+C:\Users\redca\source\repos\Occupation_of_states\obj\Debug\Occupation_of_states.CommandPrompt.resources
+C:\Users\redca\source\repos\Occupation_of_states\obj\Debug\Occupation_of_states.CreateMenu.resources
+C:\Users\redca\source\repos\Occupation_of_states\obj\Debug\Occupation_of_states.CreatorMap.resources
+C:\Users\redca\source\repos\Occupation_of_states\obj\Debug\Occupation_of_states.OnMultiplayer.resources
+C:\Users\redca\source\repos\Occupation_of_states\obj\Debug\Occupation_of_states.OffSingleplayer.resources
+C:\Users\redca\source\repos\Occupation_of_states\obj\Debug\Occupation_of_states.OffMultiplayer.resources
+C:\Users\redca\source\repos\Occupation_of_states\obj\Debug\Occupation_of_states.FormSettings.resources
+C:\Users\redca\source\repos\Occupation_of_states\obj\Debug\Occupation_of_states.MainMenu.resources
+C:\Users\redca\source\repos\Occupation_of_states\obj\Debug\Occupation_of_states.Properties.Resources.resources
+C:\Users\redca\source\repos\Occupation_of_states\obj\Debug\Occupation of states.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Occupation_of_states\obj\Debug\Occupation of states.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Occupation_of_states\obj\Debug\Occupation of states.exe
+C:\Users\redca\source\repos\Occupation_of_states\obj\Debug\Occupation of states.pdb

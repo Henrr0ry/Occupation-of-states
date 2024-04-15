@@ -1,0 +1,83 @@
+----------------------
+TEXTURY DO HRY OCCUPATION OF STATES
+----------------------
+
+název.png (šířka x výška v pixelech)
+-popis
+
+----------------------
+
+MainLogo.png (200 x 200 px)
+-hlavní logo aplikace zobrazující se v dolní liště
+
+
+LargeLogo.png (jakákoliv velikost - např 500 x 700 px)
+-prostě název occupation of states napsaný velkým a ozdobně
+
+Panel1.png (360 x 190 px)
+-v aplikaci to jsou ty zelené a orandžový obdelník
+
+Panel2.png (350 x 430 px)
+-v aplikaci to je modrý a světle modrý panel
+
+Turn1Panel.png .gif  (530 x 50)
+-v aplikaci žlutý
+-mě napadlo že by to mohlo být jako takovéto staré světlo (zářivka) a mohla
+by být naanimovaná jako gif
+
+Turn2Panel.png .gif (530 x 50)
+-v aplikaci žlutý
+- druhý hráč na tahu
+-mě napadlo že by to mohlo být jako takovéto staré světlo (zářivka) a mohla
+by být naanimovaná jako gif
+
+Background.png (libovolná velikost)
+-v aplikaci šedé
+-například jako stůl
+-umím udělat aby se obrázek opakoval
+
+---------------------------------------------------------------------------------------
+
+MainBackground (vlastní velikost)
+-pozadi v  hlavním menu
+-umím udělat aby se obrázek opakoval
+
+
+---------------------------------------------------------------------------------------
+IKONY BOJOVÝCH JEDNOTEK - všechny podobný styl
+---------------------------------------------------------------------------------------
+
+SoldierLVL1.png (80 x 80)
+- ikona vojáků
+
+SoldierLVL2.png (80 x 80)
+- ikona vojáků lvl 2
+
+SoldierLVL3.png (80 x 80)
+- ikona vojáků lvl 3 
+
+TankLVL1.png (80 x 80)
+- ikona tanku lvl 1
+
+TankLVL2.png (80 x 80)
+- ikona tanku lvl 2
+
+TankLVL3.png (80 x 80)
+- ikona tanku lvl 3
+
+PlaneLVL1.png (80 x 80)
+-zase ikony letadel  lvl 1 - 3
+
+
+--------------------------------------------------------------------------------------
+TLAČÍTKA
+--------------------------------------------------------------------------------------
+
+BtnOne.png (180 x 50)
+-textura ktérá bude na tlačítku normálně
+
+BtnTwo.png (180 x 50)
+-textura ktérá bude na tlačítku když na něj najede myš
+-texury jsou na tlačítku modře a fialově
+
+
